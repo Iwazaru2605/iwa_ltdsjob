@@ -6,6 +6,6 @@
 * [esx_billing](https://github.com/esx-framework/esx_billing)
 
 ## Support :
-Developed by Iwazaru, Iwazaru#3546 on Discord for support.
+Developed by Iwazaru, Lv Iwazaru#3546 on Discord for support.
 
 ## NOT TO SELL
